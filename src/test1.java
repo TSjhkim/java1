@@ -9,6 +9,9 @@ public class test1 {
         goodbyeFunction();
     }
 
+    /**
+     * Prints a goodbye message along with some additional farewell phrases.
+     */
     public static void goodbyeFunction() {
         System.out.println(GOODBYE_MESSAGE);
         System.out.println("Goodbye!");
