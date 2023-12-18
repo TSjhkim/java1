@@ -47,4 +47,3 @@ class HelloWorld {
     }
 }
 
-//create hello
