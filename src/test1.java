@@ -47,3 +47,20 @@ class HelloWorld {
     }
 }
 
+class glasses {
+    // This is a comment
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+    //create method to print age
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+
